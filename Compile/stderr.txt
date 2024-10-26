@@ -1,0 +1,7 @@
+main.cpp: In function ‘void CompareThreeNumbers(int, int, int, Result&)’:
+main.cpp:6:23: error: expected ‘;’ before ‘}’ token
+    6 |     111111111111111111// 在这里完成你的代码
+      |                       ^
+      |                       ;
+    7 | }
+      | ~                      
