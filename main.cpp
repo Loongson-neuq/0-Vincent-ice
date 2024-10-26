@@ -3,5 +3,5 @@
 // 比较三个数的大小
 void CompareThreeNumbers(int a, int b, int c, Result &result)
 {
-    111// 在这里完成你的代码
+    111111111111111111// 在这里完成你的代码
 }
